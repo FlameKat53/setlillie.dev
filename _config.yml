@@ -1,14 +1,14 @@
-title        : "pk11.us"
-description  : "Pk11's site"
-repo         : "Epicpkmn11/pk11.us"
-color        : "#f2acae"
+title        : "setlillie.dev"
+description  : "setLillie.net"
+repo         : "FlameKat53/setlillie.dev"
+color        : "#58609a"
 markdown_ext : "markdown,mkdown,mkdn,mkd,md,html"
 include      : [".well-known"]
 
 defaults:
   - values:
       layout: "default"
-      title: "Pk11"
+      title: "setLillie"
 
 plugins:
   - "jekyll-github-metadata"
