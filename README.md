@@ -1,7 +1,8 @@
-# pk11.us
-Pk11's website
+# setlillie.dev
 
-## Building
+##FORKED from: pk11.us (Pk11's website)
+
+### Building
 To test the site locally install Jekyll by running:
 ```
 gem install --user-install bundler jekyll
